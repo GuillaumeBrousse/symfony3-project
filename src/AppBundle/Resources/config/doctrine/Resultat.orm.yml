@@ -1,0 +1,38 @@
+AppBundle\Entity\Resultat:
+    type: entity
+    table: null
+    repositoryClass: AppBundle\Repository\ResultatRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        nbVoix:
+            type: integer
+        date:
+          type: datetime
+    manyToOne:
+        commune:
+            targetEntity: AppBundle\Entity\Commune
+            inversedBy: resultat
+            joinColumn:
+                name: commune_id
+                referencedColumnName: id
+                nullable: false
+        candidat:
+            targetEntity: AppBundle\Entity\Candidat
+            inversedBy: resultat
+            joinColumn:
+                name: candidat_id
+                referencedColumnName: id
+                nullable: false
+        tour:
+            targetEntity: AppBundle\Entity\Tour
+            inversedBy: resultat
+            joinColumn:
+                name: tour_id
+                referencedColumnName: id
+                nullable: false
+    lifecycleCallbacks: {  }

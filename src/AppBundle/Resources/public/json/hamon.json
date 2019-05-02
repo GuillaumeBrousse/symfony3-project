@@ -1,0 +1,608 @@
+[
+  {
+    "departement": "2A",
+    "pourcentage_votant": 34,
+    "pourcentage_inscrit": 90,
+    "nombre_voie": 664687
+  },
+  {
+    "departement": "2B",
+    "pourcentage_votant": 34,
+    "pourcentage_inscrit": 90,
+    "nombre_voie": 664687
+  },
+  {
+    "departement": "01",
+    "pourcentage_votant": 34,
+    "pourcentage_inscrit": 90,
+    "nombre_voie": 664687
+  },
+  {
+    "departement": "02",
+    "pourcentage_votant": 89,
+    "pourcentage_inscrit": 52,
+    "nombre_voie": 46356
+  },
+  {
+    "departement": "03",
+    "pourcentage_votant": 22,
+    "pourcentage_inscrit": 88,
+    "nombre_voie": 805535
+  },
+  {
+    "departement": "04",
+    "pourcentage_votant": 13,
+    "pourcentage_inscrit": 95,
+    "nombre_voie": 372978
+  },
+  {
+    "departement": "05",
+    "pourcentage_votant": 6,
+    "pourcentage_inscrit": 25,
+    "nombre_voie": 537553
+  },
+  {
+    "departement": "06",
+    "pourcentage_votant": 7,
+    "pourcentage_inscrit": 58,
+    "nombre_voie": 536682
+  },
+  {
+    "departement": "07",
+    "pourcentage_votant": 83,
+    "pourcentage_inscrit": 22,
+    "nombre_voie": 639356
+  },
+  {
+    "departement": "08",
+    "pourcentage_votant": 80,
+    "pourcentage_inscrit": 48,
+    "nombre_voie": 199057
+  },
+  {
+    "departement": "09",
+    "pourcentage_votant": 92,
+    "pourcentage_inscrit": 67,
+    "nombre_voie": 957810
+  },
+  {
+    "departement": 10,
+    "pourcentage_votant": 16,
+    "pourcentage_inscrit": 24,
+    "nombre_voie": 449164
+  },
+  {
+    "departement": 11,
+    "pourcentage_votant": 31,
+    "pourcentage_inscrit": 77,
+    "nombre_voie": 124919
+  },
+  {
+    "departement": 12,
+    "pourcentage_votant": 44,
+    "pourcentage_inscrit": 76,
+    "nombre_voie": 436307
+  },
+  {
+    "departement": 13,
+    "pourcentage_votant": 13,
+    "pourcentage_inscrit": 39,
+    "nombre_voie": 754278
+  },
+  {
+    "departement": 14,
+    "pourcentage_votant": 9,
+    "pourcentage_inscrit": 75,
+    "nombre_voie": 276027
+  },
+  {
+    "departement": 15,
+    "pourcentage_votant": 36,
+    "pourcentage_inscrit": 41,
+    "nombre_voie": 723653
+  },
+  {
+    "departement": 16,
+    "pourcentage_votant": 23,
+    "pourcentage_inscrit": 40,
+    "nombre_voie": 312654
+  },
+  {
+    "departement": 17,
+    "pourcentage_votant": 87,
+    "pourcentage_inscrit": 99,
+    "nombre_voie": 683606
+  },
+  {
+    "departement": 18,
+    "pourcentage_votant": 81,
+    "pourcentage_inscrit": 97,
+    "nombre_voie": 748597
+  },
+  {
+    "departement": 19,
+    "pourcentage_votant": 4,
+    "pourcentage_inscrit": 91,
+    "nombre_voie": 842469
+  },
+  {
+    "departement": 20,
+    "pourcentage_votant": 20,
+    "pourcentage_inscrit": 95,
+    "nombre_voie": 321850
+  },
+  {
+    "departement": 21,
+    "pourcentage_votant": 23,
+    "pourcentage_inscrit": 57,
+    "nombre_voie": 543818
+  },
+  {
+    "departement": 22,
+    "pourcentage_votant": 37,
+    "pourcentage_inscrit": 43,
+    "nombre_voie": 446035
+  },
+  {
+    "departement": 23,
+    "pourcentage_votant": 79,
+    "pourcentage_inscrit": 66,
+    "nombre_voie": 615191
+  },
+  {
+    "departement": 24,
+    "pourcentage_votant": 25,
+    "pourcentage_inscrit": 46,
+    "nombre_voie": 775129
+  },
+  {
+    "departement": 25,
+    "pourcentage_votant": 85,
+    "pourcentage_inscrit": 67,
+    "nombre_voie": 130483
+  },
+  {
+    "departement": 26,
+    "pourcentage_votant": 35,
+    "pourcentage_inscrit": 75,
+    "nombre_voie": 881692
+  },
+  {
+    "departement": 27,
+    "pourcentage_votant": 30,
+    "pourcentage_inscrit": 9,
+    "nombre_voie": 482180
+  },
+  {
+    "departement": 28,
+    "pourcentage_votant": 4,
+    "pourcentage_inscrit": 87,
+    "nombre_voie": 327739
+  },
+  {
+    "departement": 29,
+    "pourcentage_votant": 60,
+    "pourcentage_inscrit": 35,
+    "nombre_voie": 523855
+  },
+  {
+    "departement": 30,
+    "pourcentage_votant": 42,
+    "pourcentage_inscrit": 39,
+    "nombre_voie": 457107
+  },
+  {
+    "departement": 31,
+    "pourcentage_votant": 38,
+    "pourcentage_inscrit": 45,
+    "nombre_voie": 317516
+  },
+  {
+    "departement": 32,
+    "pourcentage_votant": 30,
+    "pourcentage_inscrit": 64,
+    "nombre_voie": 25720
+  },
+  {
+    "departement": 33,
+    "pourcentage_votant": 87,
+    "pourcentage_inscrit": 98,
+    "nombre_voie": 923564
+  },
+  {
+    "departement": 34,
+    "pourcentage_votant": 32,
+    "pourcentage_inscrit": 91,
+    "nombre_voie": 341756
+  },
+  {
+    "departement": 35,
+    "pourcentage_votant": 50,
+    "pourcentage_inscrit": 72,
+    "nombre_voie": 58495
+  },
+  {
+    "departement": 36,
+    "pourcentage_votant": 20,
+    "pourcentage_inscrit": 17,
+    "nombre_voie": 209716
+  },
+  {
+    "departement": 37,
+    "pourcentage_votant": 22,
+    "pourcentage_inscrit": 21,
+    "nombre_voie": 529237
+  },
+  {
+    "departement": 38,
+    "pourcentage_votant": 31,
+    "pourcentage_inscrit": 94,
+    "nombre_voie": 665270
+  },
+  {
+    "departement": 39,
+    "pourcentage_votant": 99,
+    "pourcentage_inscrit": 99,
+    "nombre_voie": 35974
+  },
+  {
+    "departement": 40,
+    "pourcentage_votant": 47,
+    "pourcentage_inscrit": 14,
+    "nombre_voie": 449083
+  },
+  {
+    "departement": 41,
+    "pourcentage_votant": 18,
+    "pourcentage_inscrit": 84,
+    "nombre_voie": 590504
+  },
+  {
+    "departement": 42,
+    "pourcentage_votant": 3,
+    "pourcentage_inscrit": 68,
+    "nombre_voie": 185594
+  },
+  {
+    "departement": 43,
+    "pourcentage_votant": 58,
+    "pourcentage_inscrit": 1,
+    "nombre_voie": 594670
+  },
+  {
+    "departement": 44,
+    "pourcentage_votant": 95,
+    "pourcentage_inscrit": 89,
+    "nombre_voie": 945539
+  },
+  {
+    "departement": 45,
+    "pourcentage_votant": 39,
+    "pourcentage_inscrit": 100,
+    "nombre_voie": 569833
+  },
+  {
+    "departement": 46,
+    "pourcentage_votant": 8,
+    "pourcentage_inscrit": 85,
+    "nombre_voie": 705901
+  },
+  {
+    "departement": 47,
+    "pourcentage_votant": 71,
+    "pourcentage_inscrit": 0,
+    "nombre_voie": 948248
+  },
+  {
+    "departement": 48,
+    "pourcentage_votant": 40,
+    "pourcentage_inscrit": 2,
+    "nombre_voie": 876303
+  },
+  {
+    "departement": 49,
+    "pourcentage_votant": 100,
+    "pourcentage_inscrit": 68,
+    "nombre_voie": 877919
+  },
+  {
+    "departement": 50,
+    "pourcentage_votant": 74,
+    "pourcentage_inscrit": 81,
+    "nombre_voie": 689017
+  },
+  {
+    "departement": 51,
+    "pourcentage_votant": 96,
+    "pourcentage_inscrit": 50,
+    "nombre_voie": 575909
+  },
+  {
+    "departement": 52,
+    "pourcentage_votant": 12,
+    "pourcentage_inscrit": 86,
+    "nombre_voie": 259637
+  },
+  {
+    "departement": 53,
+    "pourcentage_votant": 58,
+    "pourcentage_inscrit": 75,
+    "nombre_voie": 84433
+  },
+  {
+    "departement": 54,
+    "pourcentage_votant": 86,
+    "pourcentage_inscrit": 88,
+    "nombre_voie": 660608
+  },
+  {
+    "departement": 55,
+    "pourcentage_votant": 22,
+    "pourcentage_inscrit": 10,
+    "nombre_voie": 135550
+  },
+  {
+    "departement": 56,
+    "pourcentage_votant": 81,
+    "pourcentage_inscrit": 23,
+    "nombre_voie": 68899
+  },
+  {
+    "departement": 57,
+    "pourcentage_votant": 52,
+    "pourcentage_inscrit": 48,
+    "nombre_voie": 481947
+  },
+  {
+    "departement": 58,
+    "pourcentage_votant": 30,
+    "pourcentage_inscrit": 98,
+    "nombre_voie": 859941
+  },
+  {
+    "departement": 59,
+    "pourcentage_votant": 16,
+    "pourcentage_inscrit": 43,
+    "nombre_voie": 272678
+  },
+  {
+    "departement": 60,
+    "pourcentage_votant": 22,
+    "pourcentage_inscrit": 3,
+    "nombre_voie": 147135
+  },
+  {
+    "departement": 61,
+    "pourcentage_votant": 47,
+    "pourcentage_inscrit": 63,
+    "nombre_voie": 506011
+  },
+  {
+    "departement": 62,
+    "pourcentage_votant": 43,
+    "pourcentage_inscrit": 47,
+    "nombre_voie": 79477
+  },
+  {
+    "departement": 63,
+    "pourcentage_votant": 87,
+    "pourcentage_inscrit": 59,
+    "nombre_voie": 592758
+  },
+  {
+    "departement": 64,
+    "pourcentage_votant": 11,
+    "pourcentage_inscrit": 65,
+    "nombre_voie": 208338
+  },
+  {
+    "departement": 65,
+    "pourcentage_votant": 50,
+    "pourcentage_inscrit": 82,
+    "nombre_voie": 587212
+  },
+  {
+    "departement": 66,
+    "pourcentage_votant": 53,
+    "pourcentage_inscrit": 65,
+    "nombre_voie": 38262
+  },
+  {
+    "departement": 67,
+    "pourcentage_votant": 81,
+    "pourcentage_inscrit": 2,
+    "nombre_voie": 534851
+  },
+  {
+    "departement": 68,
+    "pourcentage_votant": 17,
+    "pourcentage_inscrit": 49,
+    "nombre_voie": 445511
+  },
+  {
+    "departement": 69,
+    "pourcentage_votant": 52,
+    "pourcentage_inscrit": 20,
+    "nombre_voie": 1662
+  },
+  {
+    "departement": 70,
+    "pourcentage_votant": 42,
+    "pourcentage_inscrit": 95,
+    "nombre_voie": 277412
+  },
+  {
+    "departement": 71,
+    "pourcentage_votant": 36,
+    "pourcentage_inscrit": 44,
+    "nombre_voie": 520267
+  },
+  {
+    "departement": 72,
+    "pourcentage_votant": 21,
+    "pourcentage_inscrit": 60,
+    "nombre_voie": 8385
+  },
+  {
+    "departement": 73,
+    "pourcentage_votant": 76,
+    "pourcentage_inscrit": 51,
+    "nombre_voie": 274466
+  },
+  {
+    "departement": 74,
+    "pourcentage_votant": 57,
+    "pourcentage_inscrit": 51,
+    "nombre_voie": 668850
+  },
+  {
+    "departement": 75,
+    "pourcentage_votant": 98,
+    "pourcentage_inscrit": 76,
+    "nombre_voie": 307314
+  },
+  {
+    "departement": 76,
+    "pourcentage_votant": 35,
+    "pourcentage_inscrit": 45,
+    "nombre_voie": 439236
+  },
+  {
+    "departement": 77,
+    "pourcentage_votant": 53,
+    "pourcentage_inscrit": 36,
+    "nombre_voie": 670363
+  },
+  {
+    "departement": 78,
+    "pourcentage_votant": 32,
+    "pourcentage_inscrit": 71,
+    "nombre_voie": 964848
+  },
+  {
+    "departement": 79,
+    "pourcentage_votant": 20,
+    "pourcentage_inscrit": 16,
+    "nombre_voie": 317712
+  },
+  {
+    "departement": 80,
+    "pourcentage_votant": 44,
+    "pourcentage_inscrit": 39,
+    "nombre_voie": 787321
+  },
+  {
+    "departement": 81,
+    "pourcentage_votant": 57,
+    "pourcentage_inscrit": 11,
+    "nombre_voie": 907941
+  },
+  {
+    "departement": 82,
+    "pourcentage_votant": 7,
+    "pourcentage_inscrit": 13,
+    "nombre_voie": 692053
+  },
+  {
+    "departement": 83,
+    "pourcentage_votant": 58,
+    "pourcentage_inscrit": 95,
+    "nombre_voie": 656134
+  },
+  {
+    "departement": 84,
+    "pourcentage_votant": 35,
+    "pourcentage_inscrit": 36,
+    "nombre_voie": 637566
+  },
+  {
+    "departement": 85,
+    "pourcentage_votant": 1,
+    "pourcentage_inscrit": 58,
+    "nombre_voie": 993828
+  },
+  {
+    "departement": 86,
+    "pourcentage_votant": 61,
+    "pourcentage_inscrit": 22,
+    "nombre_voie": 399691
+  },
+  {
+    "departement": 87,
+    "pourcentage_votant": 63,
+    "pourcentage_inscrit": 7,
+    "nombre_voie": 995160
+  },
+  {
+    "departement": 88,
+    "pourcentage_votant": 68,
+    "pourcentage_inscrit": 18,
+    "nombre_voie": 498048
+  },
+  {
+    "departement": 89,
+    "pourcentage_votant": 27,
+    "pourcentage_inscrit": 22,
+    "nombre_voie": 409628
+  },
+  {
+    "departement": 90,
+    "pourcentage_votant": 18,
+    "pourcentage_inscrit": 78,
+    "nombre_voie": 306714
+  },
+  {
+    "departement": 91,
+    "pourcentage_votant": 3,
+    "pourcentage_inscrit": 77,
+    "nombre_voie": 741630
+  },
+  {
+    "departement": 92,
+    "pourcentage_votant": 64,
+    "pourcentage_inscrit": 38,
+    "nombre_voie": 68986
+  },
+  {
+    "departement": 93,
+    "pourcentage_votant": 76,
+    "pourcentage_inscrit": 91,
+    "nombre_voie": 587757
+  },
+  {
+    "departement": 94,
+    "pourcentage_votant": 70,
+    "pourcentage_inscrit": 2,
+    "nombre_voie": 498354
+  },
+  {
+    "departement": 95,
+    "pourcentage_votant": 70,
+    "pourcentage_inscrit": 2,
+    "nombre_voie": 498354
+  },
+  {
+    "departement": 971,
+    "pourcentage_votant": 43,
+    "pourcentage_inscrit": 83,
+    "nombre_voie": 430637
+  },
+  {
+    "departement": 972,
+    "pourcentage_votant": 28,
+    "pourcentage_inscrit": 27,
+    "nombre_voie": 141653
+  },
+  {
+    "departement": 973,
+    "pourcentage_votant": 80,
+    "pourcentage_inscrit": 82,
+    "nombre_voie": 728121
+  },
+  {
+    "departement": 974,
+    "pourcentage_votant": 77,
+    "pourcentage_inscrit": 88,
+    "nombre_voie": 689075
+  }
+]

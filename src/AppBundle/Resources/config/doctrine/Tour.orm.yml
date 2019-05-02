@@ -1,0 +1,21 @@
+AppBundle\Entity\Tour:
+    type: entity
+    table: null
+    repositoryClass: AppBundle\Repository\TourRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        numero:
+            type: integer
+    oneToMany:
+        mention:
+            targetEntity: AppBundle\Entity\Mention
+            mappedBy: tour
+        resultat:
+            targetEntity: AppBundle\Entity\Resultat
+            mappedBy: tour
+    lifecycleCallbacks: {  }

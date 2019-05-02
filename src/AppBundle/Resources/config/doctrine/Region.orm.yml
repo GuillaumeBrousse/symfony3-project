@@ -1,0 +1,26 @@
+AppBundle\Entity\Region:
+    type: entity
+    table: null
+    repositoryClass: AppBundle\Repository\RegionRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        code:
+            type: string
+            length: 255
+            unique: true
+        code3:
+            type: string
+            length: 255
+        libelle:
+            type: string
+            length: 255
+    oneToMany:
+        departement:
+            targetEntity: AppBundle\Entity\Departement
+            mappedBy: region
+    lifecycleCallbacks: {  }

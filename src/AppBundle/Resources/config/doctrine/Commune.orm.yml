@@ -1,0 +1,33 @@
+AppBundle\Entity\Commune:
+    type: entity
+    table: null
+    repositoryClass: AppBundle\Repository\CommuneRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        code:
+            type: string
+            length: 255
+        libelle:
+            type: string
+            length: 255
+    manyToOne:
+        departement:
+            targetEntity: AppBundle\Entity\Departement
+            inversedBy: commune
+            joinColumn:
+                name: departement_id
+                referencedColumnName: id
+                nullable: false
+    oneToMany:
+        resultat:
+            targetEntity: AppBundle\Entity\Resultat
+            mappedBy: commune
+        mention:
+            targetEntity: AppBundle\Entity\Mention
+            mappedBy: commune
+    lifecycleCallbacks: {  }

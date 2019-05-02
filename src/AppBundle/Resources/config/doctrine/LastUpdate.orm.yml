@@ -1,0 +1,14 @@
+AppBundle\Entity\LastUpdate:
+    type: entity
+    table: null
+    repositoryClass: AppBundle\Repository\LastUpdateRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        date:
+            type: datetimetz
+    lifecycleCallbacks: {  }

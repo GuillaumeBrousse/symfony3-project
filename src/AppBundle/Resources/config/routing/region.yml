@@ -1,0 +1,9 @@
+regions:
+    path:  /
+    defaults: { _controller: "AppBundle:Region:index" }
+    methods: [get]
+
+region_show:
+    path:  /{id}/
+    defaults: { _controller: "AppBundle:Region:show" }
+    methods: [get]

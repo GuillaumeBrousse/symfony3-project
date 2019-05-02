@@ -1,0 +1,35 @@
+AppBundle\Entity\Candidat:
+    type: entity
+    table: null
+    repositoryClass: AppBundle\Repository\CandidatRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        numero:
+            type: integer
+        nom:
+            type: string
+            length: 255
+        prenom:
+            type: string
+            length: 255
+        civilite:
+            type: string
+            length: 255
+    oneToMany:
+        resultat:
+            targetEntity: AppBundle\Entity\Resultat
+            mappedBy: candidat
+    oneToOne:
+        nuance:
+            targetEntity: AppBundle\Entity\Nuance
+            inversedBy: candidat
+            joinColumn:
+                name: nuance_id
+                referencedColumnName: id
+                nullable: true
+    lifecycleCallbacks: {  }

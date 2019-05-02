@@ -1,0 +1,7 @@
+parameters:
+    api.manager.class: AppBundle\Tools\ApiManager
+
+services:
+    api.manager:
+        class: "%api.manager.class%"
+        arguments: ['@doctrine.orm.entity_manager']

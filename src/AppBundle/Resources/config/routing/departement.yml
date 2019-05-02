@@ -1,0 +1,9 @@
+departements:
+    path:  /
+    defaults: { _controller: "AppBundle:Departement:index" }
+    methods: [get]
+
+departement_show:
+    path:  /{id}/
+    defaults: { _controller: "AppBundle:Departement:show" }
+    methods: [get]

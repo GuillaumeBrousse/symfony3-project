@@ -1,0 +1,25 @@
+AppBundle\Entity\Nuance:
+    type: entity
+    table: null
+    repositoryClass: AppBundle\Repository\NuanceRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        code:
+            type: string
+            length: 255
+        libelle:
+            type: string
+            length: 255
+        numero:
+            type: string
+            length: 255
+    oneToOne:
+        candidat:
+            targetEntity: AppBundle\Entity\Candidat
+            mappedBy: nuance
+    lifecycleCallbacks: {  }

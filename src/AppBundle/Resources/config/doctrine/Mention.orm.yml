@@ -1,0 +1,41 @@
+AppBundle\Entity\Mention:
+    type: entity
+    table: null
+    repositoryClass: AppBundle\Repository\MentionRepository
+    id:
+        id:
+            type: integer
+            id: true
+            generator:
+                strategy: AUTO
+    fields:
+        inscrits:
+            type: integer
+        abstentions:
+            type: integer
+        votants:
+            type: integer
+        blancs:
+            type: integer
+        nuls:
+            type: integer
+        exprimes:
+            type: integer
+        date:
+          type: datetime
+    manyToOne:
+        tour:
+            targetEntity: AppBundle\Entity\Tour
+            inversedBy: mention
+            joinColumn:
+                name: tour_id
+                referencedColumnName: id
+                nullable: false
+        commune:
+            targetEntity: AppBundle\Entity\Commune
+            inversedBy: mention
+            joinColumn:
+                name: commune_id
+                referencedColumnName: id
+                nullable: false
+    lifecycleCallbacks: {  }

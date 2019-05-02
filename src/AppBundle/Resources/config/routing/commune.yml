@@ -1,0 +1,4 @@
+commune_show:
+    path:  /{id}/
+    defaults: { _controller: "AppBundle:Commune:show" }
+    methods: [get]
